@@ -1,0 +1,32 @@
+
+.top-wrap{
+    height: 50px;
+    display: flex;
+}
+.image-wrap{
+    width: 50px;
+    height: 50px;
+    overflow: hidden;
+    border-radius: 50%;
+}
+.top-wrap  img {
+    max-height: 50px;
+    width: auto;
+}
+.fio{
+    margin-right: auto;
+    margin-top: 7px;
+    margin-left: 10px;
+}
+
+.date-and-time{
+    margin-top: 7px;
+}
+
+.post-text{
+    margin-top: 7px;
+}
+
+.heard-button:hover{
+    cursor: pointer;
+}

@@ -1,0 +1,15 @@
+.text-user-account {
+    font-family: Calibri;
+    font-weight: bold;
+    font-size: 120%;
+}
+.text-user-name {
+    font-size: 200%;
+    color: rgba(0, 115, 255, 0.84);
+}
+.fa-heart {
+    color: rgba(255, 0, 12, 0.7);
+}
+#photo {
+    max-width: 330px;
+}

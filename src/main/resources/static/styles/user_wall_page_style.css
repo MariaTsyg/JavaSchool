@@ -1,0 +1,17 @@
+.wall-post-textarea{
+    padding: 1.5rem 3.5rem;
+}
+
+.wall-post-button{
+    padding-left: 3.5rem;
+    padding-right: 3.5rem;
+}
+
+.btn{
+    min-width: 120px;
+}
+
+.text-post-data, .text-post-likes{
+    font-style: italic;
+    font-size: 80%;
+}

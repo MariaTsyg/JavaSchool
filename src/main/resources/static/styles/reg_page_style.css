@@ -1,0 +1,19 @@
+#h1_id, #h2_id{
+    height: 50px;
+    font-size: 20px;
+}
+
+#h1_id{
+    background-color: #9807d7;
+}
+
+#h2_id{
+    background-color: #17ec0f;
+}
+
+#NotEquals{
+    display: none;
+}
+
+
+
